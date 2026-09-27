@@ -124,6 +124,8 @@ documentada no **Catálogo de Dados**: [`catalogo_de_dados.md`](catalogo_de_dado
 
 > 📸 *Espaço reservado para screenshot: Catalog Explorer do Databricks mostrando o schema
 > `mvp_vale_commodities` com as tabelas Bronze, Silver e Gold.*
+> <img width="1917" height="880" alt="Tbaelas Bronze_Silver_Gold" src="https://github.com/user-attachments/assets/ce3835b7-e4cd-47fa-9218-b165d6ab9b34" />
+
 
 ---
 
@@ -151,6 +153,8 @@ O código completo está disponibilizado no repositório GitHub público:
 > 📸 *Espaço reservado para screenshot: tabelas Delta persistidas (Silver e Gold) visíveis no
 > Catalog Explorer, evidenciando que os dados foram salvos na plataforma de nuvem.*
 
+<img width="1917" height="880" alt="Tbaelas Bronze_Silver_Gold" src="https://github.com/user-attachments/assets/5b8fb746-b3ea-49d6-914d-306ca7059f58" />
+
 ---
 
 ## 5. Qualidade de Dados (Etapa 4.5)
@@ -176,6 +180,8 @@ que contenham esses problemas.
 
 > 📸 *Espaço reservado para screenshot: resultados das 5 verificações de qualidade
 > (notebook `03_qualidade_dados.py`).*
+> <img width="1850" height="847" alt="Resultados de qualidade" src="https://github.com/user-attachments/assets/ee584d84-41c4-4216-b5be-c76b388bd7b6" />
+
 
 ---
 
@@ -222,6 +228,15 @@ isolada. Todas as 5 perguntas definidas na Etapa 2 foram respondidas com os dado
 
 > 📸 *Espaço reservado para screenshot: resultados das queries SQL de cada pergunta, direto no
 > Databricks (notebook `04_analise_e_respostas.py`).*
+> <img width="1442" height="665" alt="Captura de tela 2026-09-27 161932" src="https://github.com/user-attachments/assets/eeb35834-7f6c-40f9-ba67-853977c05890" />
+> <img width="1457" height="457" alt="Captura de tela 2026-09-27 161949" src="https://github.com/user-attachments/assets/b4cecc24-0c0a-4521-bd0c-68706ab826e0" />
+> <img width="1422" height="507" alt="Captura de tela 2026-09-27 162000" src="https://github.com/user-attachments/assets/311cd2f8-08b8-458b-8a35-e8b4b3ab1934" />
+> <img width="1367" height="163" alt="Captura de tela 2026-09-27 162011" src="https://github.com/user-attachments/assets/9e160b00-661c-4f5b-b652-1da0bce37b7a" />
+< <img width="1523" height="612" alt="Captura de tela 2026-09-27 162019" src="https://github.com/user-attachments/assets/cceb2b86-9a2a-4ba2-9327-b61db111e9d6" />
+< <img width="1360" height="183" alt="Captura de tela 2026-09-27 162029" src="https://github.com/user-attachments/assets/597de4e2-c6f3-4562-9574-f7fe3dce7c45" />
+
+
+
 
 ---
 

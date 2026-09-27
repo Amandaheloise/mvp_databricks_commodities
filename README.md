@@ -94,7 +94,6 @@ commodities), sem qualquer informação pessoal ou sensível.
 
 
 
-
 ---
 
 ## 3. Modelagem e Catálogo de Dados (Etapa 4.3)

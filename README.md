@@ -299,13 +299,3 @@ upload. Os nomes já indicam a que etapa cada um pertence:
 > local) não são enviados a este repositório — a licença do FMI não permite redistribuição
 > (ver seção 1). Eles servem apenas para uso local, ao rodar o script acima.
 
-## Como executar no Databricks
-
-1. Crie uma conta gratuita em [Databricks Free Edition](https://www.databricks.com/learn/free-edition).
-2. No Workspace do Databricks, importe manualmente os 5 arquivos `.py` deste repositório
-   (`00_ingestao_bronze.py` até `04_analise_e_respostas.py`) como notebooks.
-3. Crie um Volume no Unity Catalog para receber o arquivo bruto (instruções detalhadas no
-   início do notebook `00_ingestao_bronze.py`).
-4. Execute os notebooks em ordem (00 → 04), anexados a um cluster ativo.
-5. Capture os screenshots indicados em cada notebook (marcados com 📸) e cole-os nas seções
-   correspondentes deste README antes da entrega final.

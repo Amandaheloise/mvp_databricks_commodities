@@ -137,7 +137,7 @@ explicando o que foi feito, por que foi feito e qual o impacto nos dados — por
 remoção de duplicatas de data e a exclusão de preços negativos no notebook Silver.
 
 O código completo está disponibilizado no repositório GitHub público:
-**`<< SUBSTITUA PELO LINK DO SEU REPOSITÓRIO GITHUB >>`**
+**`(https://github.com/Amandaheloise/mvp_databricks_commodities.git)>`**
 
 > 📸 *Espaço reservado para screenshot: tabelas Delta persistidas (Silver e Gold) visíveis no
 > Catalog Explorer, evidenciando que os dados foram salvos na plataforma de nuvem.*

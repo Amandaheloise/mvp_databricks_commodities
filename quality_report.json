@@ -1,0 +1,38 @@
+{
+  "completude_nulos_antes_tratamento": {
+    "data_referencia": 0,
+    "indice_precos_metais": 0,
+    "preco_cobre_usd_ton": 0,
+    "preco_minerio_ferro_usd_ton": 0,
+    "preco_aluminio_usd_ton": 0,
+    "preco_niquel_usd_ton": 0,
+    "preco_zinco_usd_ton": 0
+  },
+  "completude_nulos_apos_tratamento": {
+    "data_referencia": 0,
+    "indice_precos_metais": 0,
+    "preco_cobre_usd_ton": 0,
+    "preco_minerio_ferro_usd_ton": 0,
+    "preco_aluminio_usd_ton": 0,
+    "preco_niquel_usd_ton": 0,
+    "preco_zinco_usd_ton": 0,
+    "ano": 0,
+    "mes": 0
+  },
+  "unicidade_duplicatas_de_data_removidas": 0,
+  "consistencia_linhas_sem_data_valida_removidas": 0,
+  "acuracia_valores_negativos_encontrados": {
+    "preco_cobre_usd_ton": 0,
+    "preco_minerio_ferro_usd_ton": 0,
+    "preco_aluminio_usd_ton": 0,
+    "preco_niquel_usd_ton": 0,
+    "preco_zinco_usd_ton": 0,
+    "indice_precos_metais": 0
+  },
+  "periodo_coberto": {
+    "inicio": "1980-02-01",
+    "fim": "2017-06-01"
+  },
+  "total_linhas_bronze": 449,
+  "total_linhas_silver": 449
+}

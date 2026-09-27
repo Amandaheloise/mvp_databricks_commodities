@@ -1,0 +1,68 @@
+{
+  "correlacao_cobre_minerio_ferro": 0.863,
+  "volatilidade_geral_desvio_padrao_pct": {
+    "Níquel": 8.67,
+    "Minério de Ferro": 6.92,
+    "Cobre": 6.26,
+    "Zinco": 6.18,
+    "Alumínio": 5.48
+  },
+  "maiores_altas_mensais": [
+    {
+      "data_referencia": "1988-03-01 00:00:00",
+      "commodity_nome": "Níquel",
+      "variacao_pct_mom": 78.80945475017111
+    },
+    {
+      "data_referencia": "2005-01-01 00:00:00",
+      "commodity_nome": "Minério de Ferro",
+      "variacao_pct_mom": 71.5070164734594
+    },
+    {
+      "data_referencia": "2008-01-01 00:00:00",
+      "commodity_nome": "Minério de Ferro",
+      "variacao_pct_mom": 65.98416598416597
+    },
+    {
+      "data_referencia": "1990-03-01 00:00:00",
+      "commodity_nome": "Níquel",
+      "variacao_pct_mom": 32.82212985523864
+    },
+    {
+      "data_referencia": "1987-12-01 00:00:00",
+      "commodity_nome": "Níquel",
+      "variacao_pct_mom": 29.038264471102202
+    }
+  ],
+  "maiores_quedas_mensais": [
+    {
+      "data_referencia": "2008-10-01 00:00:00",
+      "commodity_nome": "Níquel",
+      "variacao_pct_mom": -31.700805868394166
+    },
+    {
+      "data_referencia": "2008-10-01 00:00:00",
+      "commodity_nome": "Cobre",
+      "variacao_pct_mom": -29.823490203383972
+    },
+    {
+      "data_referencia": "1988-07-01 00:00:00",
+      "commodity_nome": "Alumínio",
+      "variacao_pct_mom": -27.84965634976777
+    },
+    {
+      "data_referencia": "2008-10-01 00:00:00",
+      "commodity_nome": "Zinco",
+      "variacao_pct_mom": -25.30883504950837
+    },
+    {
+      "data_referencia": "2008-11-01 00:00:00",
+      "commodity_nome": "Cobre",
+      "variacao_pct_mom": -23.814702551462318
+    }
+  ],
+  "correlacao_cobre_indice_metais": 0.987,
+  "correlacao_minerio_indice_metais": 0.889,
+  "crescimento_pct_periodo_cobre": 96.1,
+  "crescimento_pct_periodo_minerio_ferro": 376.2
+}

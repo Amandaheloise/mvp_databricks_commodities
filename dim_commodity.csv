@@ -1,0 +1,6 @@
+commodity_id,commodity_nome,coluna_origem,unidade,relevancia_vale
+1,Cobre,preco_cobre_usd_ton,USD/tonelada,Principal produto da mina de Salobo (cobre)
+2,Minério de Ferro,preco_minerio_ferro_usd_ton,USD/tonelada,Principal commodity da Vale globalmente
+3,Alumínio,preco_aluminio_usd_ton,USD/tonelada,"Metal industrial correlato, benchmark de mercado"
+4,Níquel,preco_niquel_usd_ton,USD/tonelada,Segundo maior produto da Vale (mineração de níquel)
+5,Zinco,preco_zinco_usd_ton,USD/tonelada,"Metal industrial correlato, benchmark de mercado"

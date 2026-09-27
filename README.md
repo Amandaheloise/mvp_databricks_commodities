@@ -79,7 +79,8 @@ scraping nem chamadas de API), a carga seguiu o "caso simples" descrito na espec
 Não houve necessidade de anonimização: os dados são públicos e de mercado (preços de
 commodities), sem qualquer informação pessoal ou sensível.
 
-> 📸 *Espaço reservado para screenshot: célula de leitura do CSV bruto + contagem de linhas
+> 📸 *Espaço reservado para scree<img width="241" height="127" alt="Captura de tela 2026-09-24 225652" src="https://github.com/user-attachments/assets/9d9eaf58-482e-417d-967e-aa5c89d5d3dc" />
+nshot: célula de leitura do CSV bruto + contagem de linhas
 > (notebook `00_ingestao_bronze.py`).*
 
 > 📸 *Espaço reservado para screenshot: Catalog Explorer mostrando a tabela

@@ -69,14 +69,13 @@ for original, novo in rename_map.items():
     if original != novo:
         print(f"'{original}' -> '{novo}'")
 
-# COMMAND ----------
+
 
 # MAGIC %md
 # MAGIC ### Metadados de controle
 # MAGIC Adicionamos apenas metadados de ingestão (data de carga e fonte), sem alterar nenhum
 # MAGIC valor original — é o único acréscimo permitido na camada Bronze.
 
-# COMMAND ----------
 
 from pyspark.sql import functions as F
 
@@ -86,12 +85,10 @@ df_bronze_ctrl = (
     .withColumn("_source", F.lit("https://raw.githubusercontent.com/datasets/commodity-prices/main/data/commodity-prices.csv"))
 )
 
-# COMMAND ----------
+
 
 # MAGIC %md
 # MAGIC ### Persistência como tabela Delta (camada Bronze)
-
-# COMMAND ----------
 
 (
     df_bronze_ctrl.write
@@ -104,9 +101,5 @@ df_bronze_ctrl = (
 print(f"Tabela criada: {CATALOG}.{SCHEMA}.bronze_commodity_prices_raw")
 display(spark.table(f"{CATALOG}.{SCHEMA}.bronze_commodity_prices_raw").limit(10))
 
-# COMMAND ----------
 
-# MAGIC %md
-# MAGIC > **Evidência para o README (item 7/8 da especificação):** tire um screenshot desta
-# MAGIC > célula (contagem de linhas + preview da tabela) e outro do Catalog Explorer mostrando
-# MAGIC > a tabela `bronze_commodity_prices_raw` criada no schema.
+

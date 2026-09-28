@@ -150,7 +150,3 @@ display(fato_variacao_mensal.orderBy(F.desc("variacao_pct_mom")).limit(10))
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC > **Evidência para o README:** screenshot do Catalog Explorer mostrando as 4 tabelas
-# MAGIC > Gold criadas (`gold_dim_commodity`, `gold_fato_precos_mensais`, `gold_fato_precos_anuais`,
-# MAGIC > `gold_fato_variacao_mensal`) e um preview de cada uma (células acima).

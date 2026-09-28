@@ -288,14 +288,5 @@ upload. Os nomes já indicam a que etapa cada um pertence:
 | `01_evolucao_cobre_minerio.png` ... `04_vs_indice_metais.png` | gráficos referenciados neste README |
 | `local_pipeline_validation.py` | script de validação local (pandas) — ver nota abaixo |
 
-> **Nota sobre `local_pipeline_validation.py`:** este script roda a mesma lógica dos
-> notebooks em pandas, localmente, e foi usado para **validar a lógica do pipeline e gerar os
-> gráficos deste README** antes da execução real no Databricks. Ele não substitui os
-> notebooks PySpark — a entrega oficial do MVP são os 5 notebooks (`00_...` a `04_...`), que
-> devem ser importados e executados no Databricks (ver instruções abaixo) para gerar as
-> tabelas Delta e os screenshots de evidência pedidos na especificação.
->
-> Os dados brutos e derivados (pastas `data/bronze`, `data/silver`, `data/gold` do projeto
-> local) não são enviados a este repositório — a licença do FMI não permite redistribuição
-> (ver seção 1). Eles servem apenas para uso local, ao rodar o script acima.
+
 

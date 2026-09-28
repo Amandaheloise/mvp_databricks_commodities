@@ -145,6 +145,4 @@ display(outliers_nomeados.orderBy(F.desc(F.abs("variacao_pct_mom"))))
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC > **Evidência para o README:** screenshot dos resultados de cada célula acima
-# MAGIC > (completude, consistência, unicidade, acurácia e outliers).
+

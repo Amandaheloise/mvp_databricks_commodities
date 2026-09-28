@@ -126,6 +126,3 @@ display(spark.table(f"{CATALOG}.{SCHEMA}.silver_commodity_prices").orderBy("data
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC > **Evidência para o README:** screenshot desta célula (contagem antes/depois da limpeza
-# MAGIC > + preview da tabela Silver) e do Catalog Explorer com a tabela `silver_commodity_prices`.
